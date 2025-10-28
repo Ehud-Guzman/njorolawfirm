@@ -1,0 +1,104 @@
+{
+  "name": "Njoroge & Partners Advocates",
+  "slogan": "Your Trusted Legal Partners in Kenya",
+  "description": "Leading law firm in Kenya providing expert legal services with integrity and excellence.",
+  "contact": {
+    "phone": "+254-700-123-456",
+    "email": "info@njorogeadvocates.co.ke",
+    "address": "Law Society Building, Nairobi CBD, Kenya",
+    "emergency": "+254-711-123-456",
+    "hours": {
+      "weekdays": "8:00 AM - 6:00 PM",
+      "saturday": "9:00 AM - 1:00 PM",
+      "emergency": "24/7"
+    }
+  },
+  "social": {
+    "facebook": "https://facebook.com/njorogeadvocates",
+    "linkedin": "https://linkedin.com/company/njorogeadvocates",
+    "twitter": "https://twitter.com/njorogeadvocates"
+  },
+  "practiceAreas": [
+    {
+      "name": "Corporate Law",
+      "description": "Business formation, contracts, mergers and acquisitions.",
+      "icon": "🏢",
+      "services": [
+        "Business Formation & Registration",
+        "Contract Drafting & Review",
+        "Mergers & Acquisitions",
+        "Corporate Compliance"
+      ]
+    },
+    {
+      "name": "Real Estate Law",
+      "description": "Property transactions, conveyancing, landlord-tenant disputes.",
+      "icon": "🏠",
+      "services": [
+        "Property Conveyancing",
+        "Title Transfers",
+        "Landlord-Tenant Disputes",
+        "Property Development Agreements"
+      ]
+    },
+    {
+      "name": "Family Law",
+      "description": "Divorce, child custody, adoption, and matrimonial disputes.",
+      "icon": "👨‍👩‍👧‍👦",
+      "services": [
+        "Divorce Proceedings",
+        "Child Custody & Support",
+        "Adoption Processes",
+        "Matrimonial Property"
+      ]
+    },
+    {
+      "name": "Criminal Defense",
+      "description": "Legal representation in criminal cases and appeals.",
+      "icon": "⚖️",
+      "services": [
+        "Bail Applications",
+        "Trial Representation",
+        "Appeal Processes",
+        "Legal Advisory"
+      ]
+    },
+    {
+      "name": "Employment Law",
+      "description": "Labor disputes, contracts, workplace rights.",
+      "icon": "💼",
+      "services": [
+        "Employment Contracts",
+        "Workplace Disputes",
+        "Termination Matters",
+        "Labor Rights Protection"
+      ]
+    }
+  ],
+  "team": [
+    {
+      "name": "James Njoroge",
+      "position": "Senior Partner",
+      "specialization": "Corporate Law",
+      "experience": "15+ years",
+      "education": "LL.M, University of Nairobi",
+      "bio": "Expert in corporate law with extensive experience in business formations and mergers."
+    },
+    {
+      "name": "Sarah Wambui",
+      "position": "Partner",
+      "specialization": "Family Law",
+      "experience": "12+ years",
+      "education": "LL.B, Moi University",
+      "bio": "Dedicated family law specialist focused on protecting clients' rights in sensitive matters."
+    },
+    {
+      "name": "David Kimani",
+      "position": "Associate Advocate",
+      "specialization": "Real Estate Law",
+      "experience": "8+ years",
+      "education": "LL.B, Kenyatta University",
+      "bio": "Real estate law expert with extensive conveyancing experience."
+    }
+  ]
+}

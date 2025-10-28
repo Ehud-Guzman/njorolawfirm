@@ -1,0 +1,66 @@
+{
+  "basic": {
+    "name": "Basic",
+    "price": 0,
+    "features": [
+      "5 Practice Areas",
+      "Basic Contact Form",
+      "Team Profile",
+      "Mobile Responsive",
+      "30 Days Support"
+    ],
+    "limitations": {
+      "maxPracticeAreas": 5,
+      "blog": false,
+      "caseStudies": false,
+      "appointments": false,
+      "adminAccess": false,
+      "analytics": false
+    }
+  },
+  "standard": {
+    "name": "Standard",
+    "price": 15000,
+    "features": [
+      "10 Practice Areas",
+      "Advanced Contact Forms",
+      "Blog System",
+      "Case Studies",
+      "Appointment Booking",
+      "Client Testimonials",
+      "Basic Analytics",
+      "90 Days Support"
+    ],
+    "limitations": {
+      "maxPracticeAreas": 10,
+      "blog": true,
+      "caseStudies": true,
+      "appointments": true,
+      "adminAccess": false,
+      "analytics": true
+    }
+  },
+  "premium": {
+    "name": "Premium",
+    "price": 35000,
+    "features": [
+      "Unlimited Practice Areas",
+      "All Standard Features",
+      "Full Admin Panel",
+      "Client Portal",
+      "Document Management",
+      "Advanced Analytics Dashboard",
+      "Priority Support",
+      "White-label Options",
+      "Custom Domain"
+    ],
+    "limitations": {
+      "maxPracticeAreas": 9999,
+      "blog": true,
+      "caseStudies": true,
+      "appointments": true,
+      "adminAccess": true,
+      "analytics": true
+    }
+  }
+}
