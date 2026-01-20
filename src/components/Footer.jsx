@@ -117,7 +117,7 @@ const Footer = () => {
           <div className="flex flex-col sm:flex-row justify-center items-center space-y-3 sm:space-y-0 sm:space-x-6 text-gray-400 text-sm">
             <span>Website crafted with expertise by</span>
             <motion.a 
-              href="https://glimmerink.netlify.app/" 
+              href="https://glimmerink.co.ke/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-legal-400 hover:text-legal-300 transition-colors font-semibold flex items-center space-x-1 group"

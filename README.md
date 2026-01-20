@@ -177,7 +177,7 @@ For technical support and customization:
 - **Developer**: GlimmerInk Creations
 - **Phone**: 0746527253
 - **Email**: nyamuehud@gmail.com
-- **Portfolio**: https://glimmerink.netlify.app/
+- **Portfolio**: https://glimmerink.co.ke/
 
 ## 📄 License
 
